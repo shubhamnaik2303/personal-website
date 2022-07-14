@@ -3,7 +3,6 @@ body{
     text-align: center;
     font-family:'Merriweather', serif;
     font-size: 1em;
-    background-color: #66BFBF;
 }
 
 h1{
@@ -65,7 +64,7 @@ h2{
     border-radius: 100%;
 }
 .skill-row{
-    padding-left: 400px;
+    padding-left: 25%;
     line-height: 2;
 }
 
